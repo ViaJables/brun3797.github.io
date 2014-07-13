@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Quote, | John Brunsfeld]]></title>
+  <link href="http://brun3797.github.io/blog/categories/quote/atom.xml" rel="self"/>
+  <link href="http://brun3797.github.io/"/>
+  <updated>2014-07-13T13:45:47-07:00</updated>
+  <id>http://brun3797.github.io/</id>
+  <author>
+    <name><![CDATA[John Brunsfeld]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Quote From Errol Morris]]></title>
+    <link href="http://brun3797.github.io/blog/2014/07/07/quote-from-errol-morris/"/>
+    <updated>2014-07-07T17:42:24-07:00</updated>
+    <id>http://brun3797.github.io/blog/2014/07/07/quote-from-errol-morris</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s an interesting quote about the importance of the STORY behind a piece of art.</p>
+
+<p>&ldquo;To fake a photograph all you have to do is change the caption, to fake a painting, change the attribution.&rdquo;
+&ndash; Errol Morris</p>
+]]></content>
+  </entry>
+  
+</feed>
