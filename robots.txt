@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://johnbrunsfeld.com/sitemap.xml 
+Sitemap: http://brun3797.github.io/sitemap.xml 
