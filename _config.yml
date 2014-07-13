@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://brun3797.github.io
+title: John Brunsfeld
+subtitle: Here's the stuff I want to tell you.
+author: John Brunsfeld
 simple_search: https://www.google.com/search
-description:
+description: This is a description
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
